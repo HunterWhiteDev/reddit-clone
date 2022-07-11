@@ -9,8 +9,6 @@ const Home: NextPage = () => {
         <title>Reddit 2.0 Clone</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      <Header />
     </div>
   );
 };
